@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Gamified-plugin_project
+Bundle-SymbolicName: Gamified-plugin_project
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: gamified_plugin_project.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-25
+Automatic-Module-Name: Gamified.plugin.project
+Bundle-ActivationPolicy: lazy
